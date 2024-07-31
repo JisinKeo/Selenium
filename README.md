@@ -1,5 +1,4 @@
 # Selenium
-Selenium
 
 1. Python에서 Selenium을 사용하기 위해 Selenium 라이브러리 설치
 2. ChromeDriver 다운로드 및 Chrome을 사용하기 위해 webdriver.Chrome()을 사용
